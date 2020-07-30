@@ -1,0 +1,17 @@
+
+flask_restful
+flask_jwt_extended
+pymongo[srv]
+flask_bcrypt
+
+Werkzeug==0.15.5
+authlib==0.11
+flask==1.0.2
+google-api-python-client
+google-auth
+virtualenv
+Flask-Session==0.3.1
+flask-restplus==0.13.0
+Flask-Cors==3.0.8
+requests==2.18.4
+urllib3==1.22
